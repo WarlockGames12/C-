@@ -1,0 +1,13 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.deps.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.runtimeconfig.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.runtimeconfig.dev.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\bin\Debug\netcoreapp3.1\Les1CS-BO.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.csprojAssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Periode3\C#\Les1CS-BO\Les1CS-BO\obj\Debug\netcoreapp3.1\Les1CS-BO.genruntimeconfig.cache
